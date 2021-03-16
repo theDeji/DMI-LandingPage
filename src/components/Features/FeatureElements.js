@@ -129,8 +129,6 @@ export const PackDesc = styled.div`
     font-weight: bold;
     font-size: 13px;
     color: white;
-    opacity: 0.9;
-    font-weight: light;
   }
 
   @media screen and (max-width: 540px) {
