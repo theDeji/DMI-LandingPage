@@ -147,8 +147,7 @@ export const PackDesc = styled.div`
     h4 {
       font-size: 13px;
       color: white;
-      opacity: 0.9;
-      font-weight: lighter;
+      font-weight: bold !important;
     }
   }
 `;
